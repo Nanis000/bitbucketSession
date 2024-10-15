@@ -1,0 +1,6 @@
+1. Make Directory in the local folder
+2. move to that directory
+3. create a repository in the git hub
+4. clone that git hub in your directory using clone command
+5. Move to your git hub directory using cd.
+6.
