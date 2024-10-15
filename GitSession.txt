@@ -3,4 +3,6 @@
 3. create a repository in the git hub
 4. clone that git hub in your directory using clone command
 5. Move to your git hub directory using cd.
-6.
+
+
+Branches
