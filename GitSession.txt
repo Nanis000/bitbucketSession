@@ -4,5 +4,5 @@
 4. clone that git hub in your directory using clone command
 5. Move to your git hub directory using cd.
 
-
 Branches
+1. Create a new branch for every new testcase.
